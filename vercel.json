@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "devCommand": "npm start",
+  "env": {
+    "NODE_VERSION": "24.x"
+  }
+}
